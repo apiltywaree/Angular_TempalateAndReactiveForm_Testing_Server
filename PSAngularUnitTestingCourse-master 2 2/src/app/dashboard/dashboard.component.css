@@ -15,6 +15,12 @@ a {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+h1 {
+  font-size: 1.2em;
+  color: #999;
+  margin-bottom: 0;
+  text-align: center;
+}
 h3 {
   text-align: center; margin-bottom: 0;
 }
